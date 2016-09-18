@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MGBExt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MGBExt_jar</output-path>
+    <root id="archive" name="MGBExt.jar">
+      <element id="module-output" name="MGBExt" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.3/mybatis-generator-core-1.3.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
