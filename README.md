@@ -28,6 +28,6 @@
         </plugins>
     </build>
 
-3. 在generatorConfig.xml使用MBGExt.例如:
+3.在generatorConfig.xml使用MBGExt.例如:
     
 	<commentGenerator type="com.aliez.mbgExt.mybatis.generate.internal.CommentGeneratorExt"/>
