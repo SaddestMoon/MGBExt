@@ -15,7 +15,7 @@ import java.util.Properties;
 import static org.mybatis.generator.internal.util.StringUtility.isTrue;
 
 /**
- * mybatis generate 自定义comment生成器
+ * Mybatis Generate 自定义comment生成器
  * @author ZhangAY 2016-09-18
  *
  */
